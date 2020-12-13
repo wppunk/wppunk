@@ -1,6 +1,6 @@
 ## Who I am 🤔
 
-Howdy, I'm Max — a senior software engineer at [Awesome Motive](https://github.com/awesomemotive) company.
+Howdy, I'm Max — a software engineer at [Awesome Motive](https://github.com/awesomemotive) company.
 
 ## Get in touch
 - Personal site: https://wp-punk.com/
