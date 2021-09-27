@@ -7,7 +7,7 @@
 [![Repos](https://badges.pufler.dev/repos/wppunk)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wppunk.wppunk)
 
-Howdy, I'm Max — a software engineer at [Awesome Motive](https://github.com/awesomemotive) company.
+Howdy, I'm Max — a Software Engineer at [Awesome Motive](https://awesomemotive.com/) company on [WPForms](https://wpforms.com/) product.
 
 ## Get in touch
 - Personal site: https://wp-punk.com/
