@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-wppunk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wppunk/)](https://www.linkedin.com/in/wppunk/)
 [![Telegram](https://img.shields.io/badge/-wppunk-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@wppunk)](https://web.telegram.org/#/im?p=@wppunk)
-![RU Stackoverflow reputation](https://img.shields.io/stackexchange/ru.stackoverflow/r/243545?label=reputation&logo=stackoverflow)
 ![Stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/9745718?label=reputation&logo=stackoverflow)
 [![Repos](https://badges.pufler.dev/repos/wppunk)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wppunk.wppunk)
@@ -14,7 +13,7 @@ Howdy, I'm Max — a Software Engineer at [Awesome Motive](https://awesomemotive
 - Telegram: https://t.me/wppunk
 - Twitter: https://twitter.com/wordpress_punk
 - WP.org: https://profiles.wordpress.org/wppunk/
-- Stack Overflow: https://ru.stackoverflow.com/users/243545/wp-punk
+- Stack Overflow: https://stackoverflow.com/users/9745718/wp-punk
 
 ## 📈 GitHub Stats
 
