@@ -3,10 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/-wppunk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wppunk/)](https://www.linkedin.com/in/wppunk/)
 [![Telegram](https://img.shields.io/badge/-wppunk-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@wppunk)](https://web.telegram.org/#/im?p=@wppunk)
 ![Stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/9745718?label=reputation&logo=stackoverflow)
-[![Repos](https://badges.pufler.dev/repos/wppunk)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wppunk.wppunk)
 
-Howdy, I'm Max — a Software Engineer at [Awesome Motive](https://awesomemotive.com/) company on [WPForms](https://wpforms.com/) product.
+Howdy, I'm Max — a Senior Software Engineer at [Awesome Motive](https://awesomemotive.com/) company on [WPForms](https://wpforms.com/) product.
 
 ## Get in touch
 - Personal site: https://wp-punk.com/
